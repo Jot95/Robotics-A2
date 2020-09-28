@@ -1,0 +1,6 @@
+// 
+
+Base_Kino = [0,0.22, pi];
+
+kino_1 = kino('kino', Base_Kino);
+hold on;
